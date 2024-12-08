@@ -163,3 +163,6 @@ delete
 from layoffs_staging2
 where total_laid_off is null and percentage_laid_off is null;
 ```
+
+**RESULTS**
+<a id="https://docs.google.com/spreadsheets/d/1G9Ai5y0cmqF-UOcjTGXWIpY6T7_ugfPcTaaQ8VU2Y2w/edit?usp=sharing">Cleaned Data</a>
