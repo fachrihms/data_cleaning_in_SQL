@@ -165,4 +165,5 @@ where total_laid_off is null and percentage_laid_off is null;
 ```
 
 **RESULTS**
-<a href='https://docs.google.com/spreadsheets/d/1G9Ai5y0cmqF-UOcjTGXWIpY6T7_ugfPcTaaQ8VU2Y2w/edit?usp=sharing'>Cleaned Data</a>
+<a href='https://docs.google.com/spreadsheets/d/1G9Ai5y0cmqF-UOcjTGXWIpY6T7_ugfPcTaaQ8VU2Y2w/edit?usp=sharing'>Cleaned Data</a> 
+(Result in the sheet: cleaned_layoffs_data)
