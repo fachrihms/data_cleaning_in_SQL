@@ -2,10 +2,10 @@
 Doing data cleaning from layoffs.csv dataset into cleaned_layoffs_data.csv
 
 # What I Do
--- 1. Remove Duplicates
--- 2. Standardizes the Data
--- 3. Null values or Blank Values
--- 4. Remove unnecessary Columns
+1. Remove Duplicates
+2. Standardizes the Data
+3. Null values or Blank Values
+4. Remove unnecessary Columns
 
 **Remove Duplicates Query**
 ```sql
